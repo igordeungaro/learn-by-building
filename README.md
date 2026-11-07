@@ -674,3 +674,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/practical-tutorials/project-based-learning
